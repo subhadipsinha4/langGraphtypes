@@ -1,0 +1,23 @@
+{
+  "count": 2,
+  "users": [
+    {
+      "age": 24,
+      "lastName": "Davis",
+      "id": 1,
+      "firstName": "Emma",
+      "username": "emma444",
+      "registeredAt": "2026-08-01T14:21:42.431782",
+      "email": "emma.davis@company.com"
+    },
+    {
+      "age": 26,
+      "id": 2,
+      "email": "liam.miller@company.com",
+      "registeredAt": "2025-09-20T14:21:42.431799",
+      "username": "liam114",
+      "firstName": "Liam",
+      "lastName": "Miller"
+    }
+  ]
+}
